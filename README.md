@@ -3,10 +3,6 @@
 <h3 align="center">full stack web developer</h3>
 Fascinated by all that is computer development, where I decided, in 2015, to continue my studies in this field at the Institute of Management and IT in the field of computer development. My humble career in different private and public institutions, has allowed me to acquire a certain expertise and great know-how that allow me to improve my skills in terms of development websites development and my mastery of different languages. The knowledge I acquired during my years of study, my motivation and also my dynamism are essential assets that I want to make available to my clients as much as fixed or freelance.
 
-
-
-- 👨‍💻 All of my projects are available at [https://my.indeed.com/p/abdessamadb-its5h1a](https://my.indeed.com/p/abdessamadb-its5h1a)
-
 - 💬 Ask me about **React , Laravel , WordPress**
 
 - 📫 How to reach me **boutamente.abdessamad@gmail.com**
