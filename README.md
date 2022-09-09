@@ -1,13 +1,22 @@
 ![I am a full stack web developer](https://media-exp1.licdn.com/dms/image/C4D16AQHTHjt0bwpL7w/profile-displaybackgroundimage-shrink_350_1400/0/1555262910905?e=1623888000&v=beta&t=Vzy1oE5JPslnDlfpdeleRsTLy44Q9Jkzrql1SMU6uTo)
 <h1 align="center">Hi 👋, I'm Boutamente abdessamad</h1>
 <h3 align="center">full stack web developer</h3>
-Fascinated by all that is computer development, where I decided, in 2015, to continue my studies in this field at the Institute of Management and IT in the field of computer development. My humble career in different private and public institutions, has allowed me to acquire a certain expertise and great know-how that allow me to improve my skills in terms of development websites development and my mastery of different languages. The knowledge I acquired during my years of study, my motivation and also my dynamism are essential assets that I want to make available to my clients as much as fixed or freelance.
+full-stack web Developer and Project Manager with Leadership Experience , with more than 4 years of experience in working on high-level projects with small-sized teams.
+
+in my career i always try to superiority over myself and create Highly organized projects ,with latest technologies.
+i like create and develop from scratch , to get best performance ,organisation,and security possible.
+
+i work in both sides ,server side with PHP laravel principally , and Node Js also ,and client side i work with reactJS and next Js , also i'm a good integrator working with ( figma , XD , Invision, Zeplin.. ) tools models to create websites templates and web administations apps ,i can also create web services like APIs with REST API or GraphQl .
+
+we can't talk about web development without mentioning wordpress CMS, that i have big experience with it,create themes from scratch and develop functionalities , and plugins
+
+my place is between creativity and logic, all projects are a problem to be solved, whether it’s to do with design or code—only the tools change.
 
 - 💬 Ask me about **React , Laravel , WordPress**
 
 - 📫 How to reach me **boutamente.abdessamad@gmail.com**
 
-- 📄 Know about my experiences [https://my.indeed.com/p/abdessamadb-its5h1a](https://my.indeed.com/p/abdessamadb-its5h1a)
+- 📄 Know about my experiences [https://boutamente-abdessamad.com/](https://boutamente-abdessamad.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
