@@ -1,4 +1,3 @@
-![I am a full stack web developer](https://media-exp1.licdn.com/dms/image/C4D16AQHTHjt0bwpL7w/profile-displaybackgroundimage-shrink_350_1400/0/1555262910905?e=1623888000&v=beta&t=Vzy1oE5JPslnDlfpdeleRsTLy44Q9Jkzrql1SMU6uTo)
 <h1 align="center">Hi 👋, I'm Boutamente abdessamad</h1>
 <h3 align="center">full stack web developer</h3>
 full-stack web Developer and Project Manager with Leadership Experience , with more than 4 years of experience in working on high-level projects with small-sized teams.
