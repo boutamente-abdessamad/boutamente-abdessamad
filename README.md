@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Boutamente abdessamad</h1>
 <h3 align="center">full stack web developer</h3>
-full-stack web Developer and Project Manager with Leadership Experience , with more than 4 years of experience in working on high-level projects with small-sized teams.
+I am a Full-stack Developer and Tech Lead, specialized in executing high-level projects within small teams. Over my 6+ years in the web domain, I have consistently sought excellence and delivered highly organized projects by leveraging the latest technologies.
 
-in my career i always try to superiority over myself and create Highly organized projects ,with latest technologies.
-i like create and develop from scratch , to get best performance ,organisation,and security possible.
+Over the past three years, I have particularly focused my efforts on front-end development, primarily using frameworks like ReactJS and Next.js, as well as integrating custom designs from software such as Figma, XD, InVision, and Zeplin. Although my beginnings were as a Full-stack Developer, my back-end skills remain strong, but I now primarily concentrate on the front-end as a Tech Lead and Senior Developer.
 
-i work in both sides ,server side with PHP laravel principally , and Node Js also ,and client side i work with reactJS and next Js , also i'm a good integrator working with ( figma , XD , Invision, Zeplin.. ) tools models to create websites templates and web administations apps ,i can also create web services like APIs with REST API or GraphQl .
+I bring extensive experience in the WordPress CMS, with which I have worked extensively. I am capable of creating themes from scratch and developing custom features and plugins.
 
-we can't talk about web development without mentioning wordpress CMS, that i have big experience with it,create themes from scratch and develop functionalities , and plugins
-
-my place is between creativity and logic, all projects are a problem to be solved, whether it’s to do with design or code—only the tools change.
+My work lies at the intersection of creativity and logic, where each project represents a problem waiting to be solved. Whether it's design or code, I embrace the challenge by understanding that the tools may vary, but the goal remains the same.
 
 - 💬 Ask me about **React , Laravel , WordPress**
 
